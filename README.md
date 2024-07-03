@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kaii
-- 🌱 I’m currently learning C++ & Go
+- 🌱 I’m currently learning C++ & Rust
 - 📫 How to reach me Discord: 82648626482
 
 <!---
